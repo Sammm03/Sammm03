@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Sammm03
 - 👀 I’m interested in Data mining
 - 🌱 I’m currently learning Py,css,html,c,c+,c#,Liunx,Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me samdesaii03@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I lost long 
+- 📫 How to reach me samarthdesai72010@gmail.com
+- 😄 Pronouns: He/Him 
 
 <!---
 Sammm03/Sammm03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
