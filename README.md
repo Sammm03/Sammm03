@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sammm03
 - 👀 I’m interested in Data mining
-- 🌱 I’m currently learning Py,css,html,c,c+,c#,Liunx,Java
+- 🌱 I’m currently learning Py,css,html,c,c+,c#,Linux,Java
 - 📫 How to reach me samarthdesai72010@gmail.com
 - 😄 Pronouns: He/Him 
 
